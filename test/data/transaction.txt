@@ -1,0 +1,42 @@
+# f, a, c, d, g, i, m, p
+1 f
+1 c
+1 a
+1 d
+1 g
+1 i
+1 m
+1 p
+
+# a, b, c, f, l, m, o
+2 a
+2 b
+2 c
+2 f
+2 l
+2 m
+2 o
+
+# b, f, h, j, o
+3 b
+3 f
+3 h
+3 j
+3 o
+
+# b, c, k, s, p
+4 b
+4 c
+4 k
+4 s
+4 p
+
+# a, f, c, e, l, p, m, n
+5 a
+5 f
+5 c
+5 e
+5 l
+5 p
+5 m
+5 n
